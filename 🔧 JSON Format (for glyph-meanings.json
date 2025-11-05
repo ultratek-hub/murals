@@ -1,14 +1,16 @@
 [
+  { "glyph": "🏓", "zone": "Table Tennis", "meaning": "Fast-paced matches, part of core play zones" },
+  { "glyph": "📺", "zone": "Big Screen TV", "meaning": "Premier League matches, communal viewing, chill sessions" }
   { "glyph": "🧠", "zone": "Consciousness", "meaning": "Symbolic overlays, mural logic, decoding" },
-  { "glyph": "🎮", "zone": "Console Zone", "meaning": "PS5, FIFA, Mortal Kombat" },
   { "glyph": "🎱", "zone": "Pool Table", "meaning": "Chill zone, casual play" },
   { "glyph": "⭐", "zone": "Tournament Arena", "meaning": "Competitive play, prizes, leaderboards" },
+    { "glyph": "🎮", "zone": "Console Zone", "meaning": "PS5, FIFA, Mortal Kombat" },
+  { "glyph": "💻", "zone": "PC LAN", "meaning": "Steam titles, keyboard/mouse setups, local multiplayer" }
   { "glyph": "🧩", "zone": "Board Games", "meaning": "Chess, Scrabble, strategy sessions" },
   { "glyph": "⏯", "zone": "VR Pod", "meaning": "Immersive headset experiences" },
   { "glyph": "⚫", "zone": "Snack Station", "meaning": "Free snacks, branded treats" },
   { "glyph": "🔺", "zone": "Movement Zone", "meaning": "Entry/exit flow, symbolic transitions" },
-  { "glyph": "🏓", "zone": "Table Tennis", "meaning": "Fast-paced matches, part of core play zones" },
-  { "glyph": "🌀", "zone": "Remix Portal", "meaning": "GitHub Pages, open-source remix logic" },
+   { "glyph": "🌀", "zone": "Remix Portal", "meaning": "GitHub Pages, open-source remix logic" },
   { "glyph": "📡", "zone": "QR Node", "meaning": "QR code destination, mural-linked access" },
   { "glyph": "🧭", "zone": "Orientation Strip", "meaning": "Painter alignment, registration marks" },
   { "glyph": "🪞", "zone": "Reflection Zone", "meaning": "Chill, feedback, creative review" },
